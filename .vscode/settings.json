@@ -1,0 +1,26 @@
+{
+  "files.associations": {
+    "deque": "cpp",
+    "vector": "cpp",
+    "system_error": "cpp",
+    "iostream": "cpp",
+    "*.rh": "cpp",
+    "ostream": "cpp",
+    "memory": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "xmemory0": "cpp",
+    "xtr1common": "cpp",
+    "xutility": "cpp",
+    "array": "cpp",
+    "functional": "cpp",
+    "sstream": "cpp",
+    "cstring": "cpp",
+    "xlocale": "cpp",
+    "typeinfo": "cpp",
+    "string": "cpp",
+    "xstring": "cpp",
+    "xiosbase": "cpp"
+  }
+}

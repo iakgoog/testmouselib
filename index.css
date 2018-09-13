@@ -1,0 +1,30 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.titlebar {
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+  min-width: 100%;
+  min-height: 36px;
+  background-color: turquoise;
+  text-align: center;
+  line-height: 36px;
+  color: #BF1F2F;
+  font-weight: bold;
+  /* position: absolute;
+  top: 0;
+  left: 0; */
+  /* z-index: 5; */
+}
+
+.contentbar {
+  -webkit-user-select: text;
+  /* -webkit-app-region: no-drag; */
+  min-width: 100%;
+  min-height: 24px;
+  background-color: #BF1F2F;
+  text-align: center;
+  z-index: 10;
+}
